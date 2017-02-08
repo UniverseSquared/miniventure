@@ -1,7 +1,7 @@
-Minicraft - Deluxe
-------------------------------------------------------------------------------------------------------------------------------------------
+# Minicraft - Deluxe
+
 Welcome! This is a mod for Minicraft, a game made by Markus Persson (Notch) in 48 hours for the 22nd Ludem Dare Contest. It aims to add in more features from Minecraft (up to snapshot 17w6a is planned). Currently, we are working on small things such as adding a hotbar, making the creative inventory and the inventory itself and improving the controls. 
-------------------------------------------------------------------------------------------------------------------------------------------
+
 News:
 
 Update In Progress - Alpha v1.0
