@@ -33,6 +33,7 @@ public class Game extends Canvas implements Runnable {
 	 * Example: 'int r = random.randInt(20);'
 	 * r will be a number between (0 to 19) [0 counts as the first value)
 	 */
+	@SuppressWarnings("unused")
 	private Random random = new Random();
 	// This is the name on the application window
 	public static final String NAME = "Miniventure";
