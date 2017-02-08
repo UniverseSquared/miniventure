@@ -13,7 +13,7 @@ Planned Features:
 -New Tutorial World
 -Improved Controls
 
-----------------------------------------------------------------------------------------------------------------------------------------Plans:
+# Plans:
 
 Broad Features:
 -More Features From Minecraft
@@ -38,15 +38,12 @@ Specific Features:
 -Marriage & Procreation
 -Technology (Electricity)
 
-----------------------------------------------------------------------------------------------------------------------------------------
-Developers:
+# Developers:
 
 -Spelunky1024
 -UniverseSquared
 
-----------------------------------------------------------------------------------------------------------------------------------------Download:
+# Download:
 
 Oops! Nothing here yet!
 Alpha v1.0 is in development though, so check back often.
-
-----------------------------------------------------------------------------------------------------------------------------------------
