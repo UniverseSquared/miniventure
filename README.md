@@ -15,6 +15,7 @@ Planned Features:
 Confirmed Features For Alpha v1.0:
 -Hotbar
 -FPS Counter
+-Tick Per Second Counter
 
 # Plans:
 
