@@ -16,6 +16,7 @@ Confirmed Features For Alpha v1.0:
 -Hotbar
 -FPS Counter
 -Tick Per Second Counter
+-Counter (Counts, Developer Easter Egg)
 
 # Plans:
 
