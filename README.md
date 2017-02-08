@@ -40,8 +40,8 @@ Specific Features:
 
 # Developers:
 
--Spelunky1024
--UniverseSquared
+@Spelunky1024
+@UniverseSquared
 
 # Download:
 
