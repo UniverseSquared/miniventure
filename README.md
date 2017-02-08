@@ -8,10 +8,13 @@ Update In Progress - Alpha v1.0
 Planned Features:
 -New Inventory Screen
 -New Crafting Screen
--New Hotbar
 -New Main Menu
 -New Tutorial World
 -Improved Controls
+
+Confirmed Features For Alpha v1.0:
+-Hotbar
+-FPS Counter
 
 # Plans:
 
