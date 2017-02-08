@@ -42,6 +42,7 @@ Specific Features:
 -Stairs
 -Marriage & Procreation
 -Technology (Electricity)
+-Player Customization
 
 # Developers:
 
